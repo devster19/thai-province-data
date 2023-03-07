@@ -10,11 +10,11 @@
 - xml
 
 ### API JSON ไฟล์สำหรับใช้งาน
-- (ทั้งหมด) https://raw.githubusercontent.com/kongvut/thai-province-data/master/api_province_with_amphure_tambon.json
-- (จังหวัด) https://raw.githubusercontent.com/kongvut/thai-province-data/master/api_province.json
-- (อำเภอ) https://raw.githubusercontent.com/kongvut/thai-province-data/master/api_amphure.json
-- (ตำบล) https://raw.githubusercontent.com/kongvut/thai-province-data/master/api_tambon.json
-- (ทั้งหมด แบบย้อนกลับ) https://raw.githubusercontent.com/kongvut/thai-province-data/master/api_revert_tambon_with_amphure_province.json
+- (ทั้งหมด) https://raw.githubusercontent.com/devster19/thai-province-data/master/api_province_with_amphure_tambon.json
+- (จังหวัด) https://raw.githubusercontent.com/devster19/thai-province-data/master/api_province.json
+- (อำเภอ) https://raw.githubusercontent.com/devster19/thai-province-data/master/api_amphure.json
+- (ตำบล) https://raw.githubusercontent.com/devster19/thai-province-data/master/api_tambon.json
+- (ทั้งหมด แบบย้อนกลับ) https://raw.githubusercontent.com/devster19/thai-province-data/master/api_revert_tambon_with_amphure_province.json
 
-### Demo Fetch API
-https://codesandbox.io/s/thailand-province-demo-api-k3st7
+
+credit and many thanks to k.kongvut => https://github.com/kongvut
